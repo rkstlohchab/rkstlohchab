@@ -1,16 +1,23 @@
-### Hi there 👋
+# Hello, I'm Rakshit 👋
 
-<!--
-**rkstlohchab/rkstlohchab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Ethereum Blockchain Developer. I specialize in building DApps and smart contracts.
 
-Here are some ideas to get you started:
+## 🛠️ Skills and Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Solidity
+- Truffle
+- Web3.js
+- Ether.js
+- Metamask
+- IPFS
+- Hardhat
+- React
+
+## 📚 I'm currently learning
+
+- DeFi development
+
+## 📫 How to reach me
+
+- Email: rkstlohchab@gmail.com
+
