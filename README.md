@@ -13,11 +13,10 @@ I'm an Ethereum Blockchain Developer. I specialize in building DApps and smart c
 - Hardhat
 - React
 
-## 📚 I'm currently learning
-
-- DeFi development
-
 ## 📫 How to reach me
 
 - Email: rkstlohchab@gmail.com
 
+## Website 
+
+- Rapp Token Exchange https://soft-glade-2476.on.fleek.co/
