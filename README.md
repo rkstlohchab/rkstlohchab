@@ -1,6 +1,6 @@
 # Hello, I'm Rakshit 👋
 
-I'm an Ethereum Blockchain Developer. I specialize in building DApps and smart contracts.
+I'm an Ethereum Blockchain Developer.
 
 ## 🛠️ Skills and Tools
 
