@@ -5,13 +5,12 @@ I'm an Ethereum Blockchain Developer. I specialize in building DApps and smart c
 ## 🛠️ Skills and Tools
 
 - Solidity
-- Truffle
-- Web3.js
-- Ether.js
-- Metamask
-- IPFS
 - Hardhat
+- Web3.js
+- Metamask
 - React
+- Redux
+
 
 ## 📫 How to reach me
 
