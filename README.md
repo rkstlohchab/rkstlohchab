@@ -8,8 +8,9 @@ I'm an Ethereum Blockchain Developer.
 - Hardhat
 - Web3.js
 - Metamask
-- React
+- React, NextJs
 - Redux
+- GSAP, Three.js
 
 
 ## 📫 How to reach me
