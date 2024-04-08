@@ -4,13 +4,9 @@ I'm an Ethereum Blockchain Developer.
 
 ## 🛠️ Skills and Tools
 
-- Solidity
-- Hardhat
-- Web3.js
-- Metamask
-- React, NextJs
-- Redux
-- GSAP, Three.js
+- Solidity, Hardhat, Web3.js, Metamask
+- React, NextJs, Redux
+- GSAP, Three.js, Tailwind CSS, Material UI
 
 
 ## 📫 How to reach me
