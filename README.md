@@ -8,12 +8,10 @@ I'm an Ethereum Blockchain Developer.
 - React, NextJs, Redux
 - GSAP, Three.js, Tailwind CSS, Material UI
 
-
-## 📫 How to reach me
-
-- Email: rkstlohchab@gmail.com
-
 ## 🛠️ Decentralised App
 
 - Rapp Token Exchange [Click Here](https://soft-glade-2476.on.fleek.co/)
+
+## 🌎 Website Projects
+
 - Apple Website Clone [Click Here](https://appol.netlify.app/)
