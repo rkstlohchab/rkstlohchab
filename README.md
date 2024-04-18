@@ -1,6 +1,6 @@
 # Hello, I'm Rakshit 👋
 
-I'm an Ethereum Blockchain Developer.
+I'm an Full-Stack Developer.
 
 ## 🛠️ Skills and Tools
 
