@@ -1,12 +1,14 @@
 # Hello, I'm Rakshit 👋
 
-I'm an Full-Stack Developer.
+I'm a Full-Stack Developer.
 
 ## 🛠️ Skills and Tools
 
-- Solidity, Hardhat, Web3.js, Metamask
-- React, NextJs, Redux
-- GSAP, Three.js, Tailwind CSS, Material UI
+- Web Technologies: React.js, Next.js, WebSockets, Redux
+- Database: Prisma, PostgreSql, MySQL
+- Libraries/Frameworks: Material UI, ShadCn UI, Tailwind     CSS, Bootstrap, GSAP
+- Blockchain Technologies: Hardhat, Web3js, Ethers, React
+- Other: DSA, Git
 
 ## 🛠️ Decentralised App
 
