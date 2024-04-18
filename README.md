@@ -4,11 +4,11 @@ I'm a Full-Stack Developer.
 
 ## 🛠️ Skills and Tools
 
-- Web Technologies: React.js, Next.js, WebSockets, Redux
-- Database: Prisma, PostgreSql, MySQL
-- Libraries/Frameworks: Material UI, ShadCn UI, Tailwind     CSS, Bootstrap, GSAP
-- Blockchain Technologies: Hardhat, Web3js, Ethers, React
-- Other: DSA, Git
+- **Web Technologies**: React.js, Next.js, WebSockets, Redux
+- **Database**: Prisma, PostgreSql, MySQL
+- **Libraries/Frameworks**: Material UI, ShadCn UI, Tailwind, CSS, Bootstrap, GSAP
+- **Blockchain Technologies**: Hardhat, Web3js, Ethers, React
+- **Other**: DSA, Git
 
 ## 🛠️ Decentralised App
 
