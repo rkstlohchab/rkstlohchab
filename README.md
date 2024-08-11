@@ -4,18 +4,15 @@ I'm a Full-Stack Developer.
 
 ## 🛠️ Skills and Tools
 
-- **Web Technologies**: React.js, Next.js, WebSockets, Redux
-- **Database**: Prisma, PostgreSql, MySQL
-- **Libraries/Frameworks**: Material UI, ShadCn UI, Tailwind, CSS, Bootstrap, GSAP
-- **Blockchain Technologies**: Hardhat, Web3js, Ethers, React
-- **Other**: DSA, Git
-
-## 🛠️ Decentralised App
-
-- Rapp Token Exchange [Click Here](https://soft-glade-2476.on.fleek.co/)
+- **Languages:** Python, Javascript, Typescript, C++
+- **Web:** React.js, Next.js, WebSockets
+- **Backend:** Prisma, MySQL, Strapi, MongoDB
+- **Libraries:** Material UI, ShadCn UI, Tailwind CSS, Bootstrap, GSAP
+- **Other:** Data Structures, Docker, Context API’s
 
 ## 🌎 Website Projects
 
 - Devflow (StackOverFlow Clone) [Click Here](https://devflow-pi-ten.vercel.app/)
+- Apple Website UI Clone [Click Here](https://appol.netlify.app/)
 - Portfolio Website [Click Here](https://rkst.me/)
-- Apple Website Clone [Click Here](https://appol.netlify.app/)
+  
