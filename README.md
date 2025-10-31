@@ -4,12 +4,11 @@ I'm a Full-Stack Developer.
 
 ## 🛠️ Skills and Tools
 
-- **Frontend:** React.js, Next.js, Svelte, TypeScript, JavaScript, Tailwind CSS, UI, HTML, CSS
+- **Frontend:** React.js, Next.js, Svelte, TypeScript, JavaScript, Tailwind CSS, Redux, Context API, Zustand, Bootstrap
 - **Backend:** Node.js, REST APIs, GraphQL, Redis
-- **Database:** MongoDB, MySQL, NoSQL, Supabase
-- **Blockchain:** Smart Contract, Web3.js, Ethers.js, Hardhat, DeFi Protocols
-- **DevOps:** Vercel, CI/CD Pipelines, Git Version Control, Aws (EC2, S3)
-- **Others:** Data Structures and Algorithms, System Design, Web SocketsA, C++, Python
+- **Database:** MongoDB, MySQL, PostgreSQL, Supabase
+- **DevOps:** Vercel, Docker, CI/CD Pipelines, Git, AWS (EC2, S3)
+- **Others:** DSA, WebSockets, C++, Python, Requirement Gathering, Prompt Engineering, Generative AI
 
 
 ## 🌎 Website Projects
