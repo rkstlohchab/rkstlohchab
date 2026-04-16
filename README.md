@@ -29,11 +29,12 @@ Jan 2025 - Mar 2025
 ## Featured Repositories
 
 - [ApplicationTemplates](https://github.com/rkstlohchab/ApplicationTemplates) - Production-ready full-stack app templates for client delivery.
-- [workplace](https://github.com/rkstlohchab/workplace) - Product/workspace-focused platform experiments and architecture.
-- [CallAiBot](https://github.com/rkstlohchab/CallAiBot) - AI automation and conversational workflow project.
+- [workplace](https://github.com/rkstlohchab/workplace) - Best notestaking app that has integrated AI and is better than other market available apps.
+- [InterviewWhisperer](https://github.com/SideSwipeLabs/InterviewWhisperer) - AI-assisted interview cheating app.
+- [CallAiBot](https://github.com/rkstlohchab/CallAiBot) - AI automation and conversational via call to generate organic leads and also provide customer support in many language human like expression.
 - [live-docs](https://github.com/rkstlohchab/live-docs) - Real-time collaborative document editing system.
 - [devflow](https://github.com/rkstlohchab/devflow) - Community-driven Q&A platform inspired by developer forums.
-- [InterviewWhisperer](https://github.com/SideSwipeLabs/InterviewWhisperer) - AI-assisted interview preparation experience.
+
 
 ## Tech Stack
 
