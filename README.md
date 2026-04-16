@@ -26,22 +26,6 @@ Jan 2025 - Mar 2025
 - Designed API caching that reduced load by 30% and improved UX.
 - Developed a scaled notification system that reduced manual team effort by 40%.
 
-## Selected Projects
-
-### Noter (AI Notes + Infinite Canvas)
-- Engineered a custom iOS Metal + Swift drawing engine in a React Native app for 120 FPS low-latency rendering.
-- Added AI features: video summarization, flashcard/quiz generation, LaTeX solving, and semantic OCR search.
-- Built real-time collaboration with WebSockets, PostgreSQL, and conflict-safe offline queueing.
-
-### E-commerce Platform
-- Built a full-stack e-commerce product with Next.js, TypeScript, Sanity CMS, and Razorpay.
-- Delivered 90+ Lighthouse performance and improved payment flow speed by 50%.
-- Implemented secure auth and headless content workflows for faster content operations.
-
-### Google Docs Clone
-- Built a rich collaborative editor with Lexical + Liveblocks.
-- Added real-time multi-user presence, comments, mentions, and role-based access control.
-
 ## Featured Repositories
 
 - [ApplicationTemplates](https://github.com/rkstlohchab/ApplicationTemplates) - Production-ready full-stack app templates for client delivery.
